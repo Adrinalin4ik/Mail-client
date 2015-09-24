@@ -1,0 +1,11 @@
+D:\Программы C#\MailClient2\MailClient2\obj\x86\Debug\MailClient2.Properties.Resources.resources
+D:\Программы C#\MailClient2\MailClient2\obj\x86\Debug\OpenPop.TestApplication.TestForm.resources
+D:\Программы C#\MailClient2\MailClient2\obj\x86\Debug\MailClient2.csproj.GenerateResource.Cache
+D:\Программы C#\MailClient2\MailClient2\bin\Debug\MailClient2.exe
+D:\Программы C#\MailClient2\MailClient2\bin\Debug\MailClient2.pdb
+D:\Программы C#\MailClient2\MailClient2\bin\Debug\OpenPop.dll
+D:\Программы C#\MailClient2\MailClient2\bin\Debug\OpenPop.pdb
+D:\Программы C#\MailClient2\MailClient2\bin\Debug\OpenPop.xml
+D:\Программы C#\MailClient2\MailClient2\obj\x86\Debug\MailClient2.exe
+D:\Программы C#\MailClient2\MailClient2\obj\x86\Debug\MailClient2.pdb
+D:\Программы C#\MailClient2\MailClient2\obj\x86\Debug\MailClient2.SendMessageForm.resources
